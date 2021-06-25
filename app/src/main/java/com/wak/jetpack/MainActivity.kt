@@ -6,9 +6,9 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import com.google.android.material.tabs.TabLayoutMediator
-import com.wak.jetpack.submission.R
 import com.wak.jetpack.submission.databinding.ActivityMainBinding
 import com.wak.jetpack.home.SectionPagerAdapter
+import com.wak.jetpack.submission.R
 
 class MainActivity : AppCompatActivity() {
     companion object {

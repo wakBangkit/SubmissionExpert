@@ -27,7 +27,6 @@ android {
     buildTypes {
         release {
             minifyEnabled false
-            proguardFiles 'proguard-rules.pro'
         }
     }
     compileOptions {
